@@ -1,0 +1,15 @@
+q1  governarote 
+
+q13 urban/rural
+
+sex sex
+
+q101 economic satisfaction 
+
+q102 Future economic view 
+
+q102a living conditions satisfactions 
+
+q106 equal treatment 
+
+q2001ir ethnicity 
